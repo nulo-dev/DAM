@@ -1,0 +1,16 @@
+1
+patatas
+2,40
+5
+2
+cebolla
+1,36
+10
+4
+lechuga
+1,90
+45
+5
+aceite
+3,40
+101
