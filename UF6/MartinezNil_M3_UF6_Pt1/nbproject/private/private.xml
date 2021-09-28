@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/media/nmartinez/2E9016E97509EDC9/DAM/M3/UF6/MartinezNil_M3_UF6_Pt1/src/Persist/P_BaseDAO.java</file>
+            <file>file:/media/nmartinez/2E9016E97509EDC9/DAM/M3/UF6/MartinezNil_M3_UF6_Pt1/src/Persist/P_BDutil.java</file>
+            <file>file:/media/nmartinez/2E9016E97509EDC9/DAM/M3/UF6/MartinezNil_M3_UF6_Pt1/src/Principal/P_Principal.java</file>
+            <file>file:/media/nmartinez/2E9016E97509EDC9/DAM/M3/UF6/MartinezNil_M3_UF6_Pt1/src/Model/M_Categoria.java</file>
+            <file>file:/media/nmartinez/2E9016E97509EDC9/DAM/M3/UF6/MartinezNil_M3_UF6_Pt1/src/Persist/P_VaixellDAO.java</file>
+            <file>file:/media/nmartinez/2E9016E97509EDC9/DAM/M3/UF6/MartinezNil_M3_UF6_Pt1/src/View/V_Formulari_Principal.java</file>
+            <file>file:/media/nmartinez/2E9016E97509EDC9/DAM/M3/UF6/MartinezNil_M3_UF6_Pt1/src/View/V_Formulari_Editar.java</file>
+            <file>file:/media/nmartinez/2E9016E97509EDC9/DAM/M3/UF6/MartinezNil_M3_UF6_Pt1/src/Controler/C_Formulari_Principal.java</file>
+            <file>file:/media/nmartinez/2E9016E97509EDC9/DAM/M3/UF6/MartinezNil_M3_UF6_Pt1/src/Model/M_Vaixell.java</file>
+        </group>
+    </open-files>
+</project-private>
